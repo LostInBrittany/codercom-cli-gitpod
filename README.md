@@ -1,4 +1,4 @@
-# Gitpod for K8s
+# Gitpod for Coder CLI
 
 A working Gitpod setup for using [Coder](https://coder.com) CLI.
 
